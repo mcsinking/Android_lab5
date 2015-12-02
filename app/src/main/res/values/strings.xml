@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab5</string>
+    <string name="action_settings">Settings</string>
+    <string name="label1">Please Enther the Number of Cups:</string>
+    <string name="button_send">OK</string>
+
+</resources>
